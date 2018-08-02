@@ -1,0 +1,474 @@
+#rollo
+hist_rollo = {
+	agnatic = yes # Always inherited from fathers
+		
+	martial = 1
+
+	vassal_opinion = 5
+}
+hist_kingalan = {
+	agnatic = yes # Always inherited from fathers
+	
+	stewardship = 1
+	health = 1
+
+	vassal_opinion = 5
+}
+hist_kingcunedda = {
+	agnatic = yes # Always inherited from fathers
+	
+	martial = 1
+	health = 1
+
+	vassal_opinion = 5
+}
+hist_kingcoel = {
+	agnatic = yes # Always inherited from fathers
+	
+	martial = 1
+	health = 1
+
+	vassal_opinion = 5
+}
+hist_kingglywys = {
+	agnatic = yes # Always inherited from fathers
+	
+	diplomacy = 1
+	health = 1
+	
+	same_opinion = 10
+	vassal_opinion = 5
+}
+hist_kingmilesius = {
+	agnatic = yes # Always inherited from fathers
+	
+	intrigue = 1
+	health = 1
+
+	vassal_opinion = 5
+}
+hist_kingyngvi = {
+	agnatic = yes # Always inherited from fathers
+	
+	martial = 1
+	health = 1
+	
+	vassal_opinion = 5
+}
+hist_karling = {
+	agnatic = yes # Always inherited from fathers
+	
+	martial = 1
+	diplomacy = 1
+	health = 1
+
+	vassal_opinion = 5
+}
+hist_merovingian = {
+	agnatic = yes # Always inherited from fathers
+	
+	intrigue = 1
+	diplomacy = 1
+	health = 1
+
+	vassal_opinion = 5
+}
+hist_capet = {
+	agnatic = yes # Always inherited from fathers
+	
+	stewardship = 1
+	diplomacy = 1
+	health = 1
+	
+	same_opinion = 10
+	vassal_opinion = 5
+}
+hist_barcelona = {
+	agnatic = yes # Always inherited from fathers
+	
+	diplomacy = 1
+	health = 1
+	
+	same_opinion = 10
+	vassal_opinion = 5
+}
+hist_kingjimeno = {
+	agnatic = yes # Always inherited from fathers
+	
+	martial = 1
+	health = 1
+
+	vassal_opinion = 5
+}
+hist_vimaraperes = {
+	agnatic = yes # Always inherited from fathers
+	
+	diplomacy = 1
+	
+	same_opinion = 10
+	vassal_opinion = 5
+}
+hist_anscar = {
+	agnatic = yes # Always inherited from fathers
+	
+	diplomacy = 1
+	health = 1
+
+	vassal_opinion = 5
+}
+hist_kingrurik = {
+	agnatic = yes # Always inherited from fathers
+	
+	martial = 1
+	health = 1
+
+	vassal_opinion = 5
+}
+hist_tusculum = {
+	agnatic = yes # Always inherited from fathers
+	
+	martial = -1
+	diplomacy = 1
+	health = 1
+
+	vassal_opinion = 5
+}
+hist_etichon = {
+	agnatic = yes # Always inherited from fathers
+	
+	stewardship = 1
+	health = 1
+	
+	same_opinion = 10
+	vassal_opinion = 5
+}
+hist_welf = {
+	agnatic = yes # Always inherited from fathers
+	
+	martial = 1
+	health = 1
+
+	vassal_opinion = 5
+}
+hist_dulo = {
+	agnatic = yes # Always inherited from fathers
+	
+	martial = 1
+	diplomacy = 1
+	health = 1
+	
+	vassal_opinion = 5
+}
+hist_bagrationi = {
+	agnatic = yes # Always inherited from fathers
+	
+	martial = 1
+	health = 1
+
+	same_opinion = 10
+	vassal_opinion = 5
+}
+hist_doukas = {
+	agnatic = yes # Always inherited from fathers
+	
+	diplomacy = 1
+	health = 1
+
+	same_opinion = 10
+	vassal_opinion = 5
+}
+hist_phokas = {
+	agnatic = yes # Always inherited from fathers
+	
+	martial = 1
+	health = 1
+
+	same_opinion = 10
+	vassal_opinion = 5
+}
+hist_conradin = {
+	agnatic = yes # Always inherited from fathers
+	
+	martial = 1
+	diplomacy = -1
+	health = 1
+
+	same_opinion = 10
+	vassal_opinion = 5
+}
+hist_elcid = {
+	agnatic = yes # Always inherited from fathers
+	
+	martial = 2
+	diplomacy = -1
+	health = 1
+	
+	same_opinion = 10
+	vassal_opinion = 5
+}
+hist_dracula = {
+	agnatic = yes # Always inherited from fathers
+
+	martial = 2
+	health = 1
+
+	vassal_opinion = -5
+}
+hist_bathory = {
+	agnatic = yes # Always inherited from fathers
+
+	martial = 1
+
+	vassal_opinion = -5
+}
+hist_stewart = {
+	agnatic = yes # Always inherited from fathers
+
+	stewardship = 2
+
+	vassal_opinion = 5
+}
+hist_brus = {
+	agnatic = yes # Always inherited from fathers
+	
+	intrigue = 1
+	health = 1
+
+	vassal_opinion = 5
+}
+hist_deleon = {
+	agnatic = yes # Always inherited from fathers
+	
+	martial = 1
+	health = 1
+
+	vassal_opinion = 5
+}
+hist_dellascala = {
+	agnatic = yes # Always inherited from fathers
+
+	martial = 1
+	health = 1
+
+	vassal_opinion = 5
+}
+hist_osman = {
+	agnatic = yes # Always inherited from fathers
+
+	martial = 1	
+
+}
+hist_amali = {
+	agnatic = yes # Always inherited from fathers
+
+	stewardship = 1	
+	health = 1
+
+	vassal_opinion = 5
+}
+hist_balti = {
+	agnatic = yes # Always inherited from fathers
+
+	diplomacy = 1
+	health = 1
+
+	vassal_opinion = 5
+}
+hist_solomon = {
+	agnatic = yes # Always inherited from fathers
+
+	intrigue = 1
+	health = 1
+
+	vassal_opinion = 5
+}
+hist_vergy = {
+	agnatic = yes # Always inherited from fathers
+
+	martial = 1
+	health = 1
+
+	vassal_opinion = 5
+}
+hist_basil = {
+	agnatic = yes # Always inherited from fathers
+
+	martial = 1
+	health = 1
+
+	vassal_opinion = 5
+}
+hist_samo = {
+	agnatic = yes # Always inherited from fathers
+
+	stewardship = 1
+	health = 1
+
+	vassal_opinion = 10
+}
+hist_cerdic = {
+	agnatic = yes # Always inherited from fathers
+
+	diplomacy = 1	
+	martial = 1
+
+	vassal_opinion = 5
+}
+hist_arsaces = {
+	agnatic = yes # Always inherited from fathers
+
+	martial = 2
+
+	vassal_opinion = 5
+}
+hist_otton = {
+	agnatic = yes # Always inherited from fathers
+
+	diplomacy = 1	
+	martial = 1
+
+	vassal_opinion = 5
+}
+hist_findlaech = {
+	agnatic = yes # Always inherited from fathers
+
+	intrigue = 1
+	health = 1
+
+	vassal_opinion = 10
+}
+hist_britconstantine = {
+	agnatic = yes # Always inherited from fathers
+
+	martial = 1
+	health = 1
+
+	vassal_opinion = 10
+}
+hist_ivar = {
+	agnatic = yes # Always inherited from fathers
+
+	intrigue = 1
+	health = 1
+
+	vassal_opinion = 10
+}
+hist_fergus = {
+	agnatic = yes # Always inherited from fathers
+
+	diplomacy = 1	
+	stewardship = 1
+	health = 1
+
+	vassal_opinion = 10
+}
+hist_guthrum = {
+	agnatic = yes # Always inherited from fathers
+
+	diplomacy = 1	
+	health = 1
+
+	vassal_opinion = 10
+}
+hist_halfdan = {
+	agnatic = yes # Always inherited from fathers
+
+	martial = 1	
+	health = 1
+
+	vassal_opinion = 10
+}
+hist_conan = {
+	agnatic = yes # Always inherited from fathers
+
+	diplomacy = 1
+	martial = 1
+
+	vassal_opinion = 5
+}
+hist_loyal = {
+	
+	martial = 1
+
+	liege_opinion = 30
+}
+hist_founder = {
+	agnatic = yes # Always inherited from fathers
+
+	martial = 1
+
+	liege_opinion = 5
+}
+hist_hunfrid = {
+	agnatic = yes # Always inherited from fathers
+	
+	martial = 1
+	health = 1
+
+	vassal_opinion = 5
+}
+hist_huosi = {
+	agnatic = yes # Always inherited from fathers
+	
+	martial = 1
+	health = 1
+
+	vassal_opinion = 5
+}
+hist_hohen = {
+	agnatic = yes # Always inherited from fathers
+	
+	opposites = {
+		hist_ahalol
+	}
+	
+	diplomacy = 1
+	health = 1
+
+	opposite_opinion = 50
+	vassal_opinion = 5
+}
+hist_eogan = {
+	agnatic = yes # Always inherited from fathers
+	
+	diplomacy = 1
+	health = 1
+
+	vassal_opinion = 5
+}
+hist_ingelger = {
+	agnatic = yes # Always inherited from fathers
+	
+	diplomacy = 1
+	health = 1
+
+	vassal_opinion = 5
+}
+hist_benialfons = {
+	agnatic = yes # Always inherited from fathers
+	
+	diplomacy = 1
+	health = 1
+
+	vassal_opinion = 5
+}
+hist_inigo = {
+	agnatic = yes # Always inherited from fathers
+	
+	diplomacy = 1
+	health = 1
+
+	vassal_opinion = 5
+}
+hist_ahalol = {
+	agnatic = yes # Always inherited from fathers
+	
+	opposites = {
+		hist_hohen
+	}
+	
+	health = 1
+
+	opposite_opinion = 50
+	vassal_opinion = 5
+}
